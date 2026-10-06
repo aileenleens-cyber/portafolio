@@ -69,7 +69,7 @@ formulario.addEventListener('submit', (e) => {
         return;
     }
 
-    feedback.textContent = `¡Gracias ${nombre}! Tu mensaje se envió correctamente.`;
+    feedback.textContent = `¡Gracias ${nombre}! Validación completada. Este es un formulario de demostración.`;
     feedback.className = 'feedback ok';
     formulario.reset();
 });
