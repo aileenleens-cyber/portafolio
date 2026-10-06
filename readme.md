@@ -7,16 +7,16 @@ Sitio web personal construido con HTML5 semántico, CSS3 moderno y JavaScript va
 
 ## Características
 - HTML5 semántico
-- CSS3 con custom properties y mobile-first
+- CSS3 con custom properties
 - JavaScript ES6+ sin frameworks
 - Paleta de colores verde
 - Dark mode
 - Formulario de contacto con validación
-- Responsive desde 320px
+- Diseño responsive
 
 ## Tecnologías
 - HTML5, CSS3 (Grid, Flexbox, custom properties)
-- JavaScript ES6+ (módulos, fetch, async/await)
+- JavaScript ES6+
 - Git y GitHub para control de versiones
 - GitHub Pages para despliegue
 
